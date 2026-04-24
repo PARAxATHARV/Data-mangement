@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.3715506</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Organizational">Allen Institute for AI</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>COVID-19 Open Research Dataset (CORD-19)</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2020</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Text corpus</resourceType>
+  <subjects>
+    <subject>COVID-19</subject>
+    <subject>Coronavirus</subject>
+    <subject>SARS</subject>
+    <subject>MERS</subject>
+    <subject>Natural language processing</subject>
+    <subject>Scholarly articles</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2020-03-16</date>
+  </dates>
+  <language>en</language>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://zenodo.org/records/3715506</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://zenodo.org/records/3715506">Dataset license and article-level licenses as described on the Zenodo record</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The COVID-19 Open Research Dataset (CORD-19) is a free resource of scholarly articles, including full text content, about COVID-19 and the coronavirus family of viruses. It was prepared by the Allen Institute for AI and partner research groups to support text mining, information retrieval, and other research on COVID-19.</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Global</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+</resource>
